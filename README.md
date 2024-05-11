@@ -1,7 +1,18 @@
-<<<<<<< HEAD
+Saludos Diego 
+
+Se me presentaron varias cosas que  no pude resolver :
+
+1) Cuando escribo en el input no me trae nada
+2) Intente los datos lo trajera a un cuadro pero no me lo tomo y por eso
+   termine unsando css para los estilos
+
+   Estare atento tu feedback Muchas gracias. 
+
 
 gh pages : 
 https://williams19094528.github.io/consumo-api-react/
+
+
 
 
 
