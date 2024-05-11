@@ -1,0 +1,28 @@
+:root {
+  display: flex;
+  justify-content: center;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  margin-top: 100px;
+
+  color-scheme: light dark;
+  background-color: #242424;
+  background-image: url(https://c8.alamy.com/compes/2jthy4m/rapido-crecimiento-reactivo-de-los-indicadores-economicos-crecimiento-economico-y-financiero-lanzamiento-de-un-nuevo-producto-o-servicio-lanzamiento-de-cohetes-espaciales-grafico-de-crecimiento-rapido-2jthy4m.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1 {
+  text-align: center;
+  padding: 5px;
+}
+body {
+  background-color: rgb(234, 225, 241);
+  border-radius: 30px;
+  margin-left: -600px;
+}
